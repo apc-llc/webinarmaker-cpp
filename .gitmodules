@@ -1,0 +1,9 @@
+[submodule "ThirdParty/json"]
+	path = ThirdParty/json
+	url = https://github.com/nlohmann/json.git
+[submodule "ThirdParty/moviemaker-cpp"]
+	path = ThirdParty/moviemaker-cpp
+	url = https://github.com/apc-llc/moviemaker-cpp.git
+[submodule "ThirdParty/task_manager_py"]
+	path = ThirdParty/task_manager_py
+	url = https://github.com/dmikushin/task_manager_py.git

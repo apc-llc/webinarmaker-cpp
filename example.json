@@ -1,0 +1,22 @@
+{
+    "output" : "webinar.mp4",
+    "fps" : 30,
+    "width" : 1600,
+	"height" : 900,
+    "sequence" : [
+        { "type" : "slide", "path" : "../../../build/slides.pdf", "page" : 1, "duration" : 10.0 },
+        { "type" : "slide", "path" : "../../../build/slides.pdf", "page" : 2, "duration" : 10.0 },
+        { "type" : "slide", "path" : "../../../build/slides.pdf", "page" : 3, "duration" : 10.0 },
+        { "type" : "slide", "path" : "../../../build/slides.pdf", "page" : 4, "duration" : 10.0 },
+        { "type" : "slide", "path" : "../../../build/slides.pdf", "page" : 5, "duration" : 10.0 },
+        { "type" : "video", "path" : "videos/video1.mp4" },
+        { "type" : "slide", "path" : "../../../build/slides.pdf", "page" : 6, "duration" : 10.0 },
+        { "type" : "video", "path" : "videos/video2.mp4" },
+        { "type" : "slide", "path" : "../../../build/slides.pdf", "page" : 7, "duration" : 10.0 },
+        { "type" : "video", "path" : "videos/video3.mp4" },
+        { "type" : "slide", "path" : "../../../build/slides.pdf", "page" : 8, "duration" : 10.0 },
+        { "type" : "video", "path" : "videos/video4.mp4" },
+        { "type" : "video", "path" : "videos/video5.mp4" },
+        { "type" : "slide", "path" : "../../../build/slides.pdf", "page" : 9, "duration" : 10.0 }
+    ]
+}
